@@ -4,5 +4,5 @@
 
 ---
 
-Repository for [AOP in Spring Boot](https://www.tonys-studio.top/posts/AOP-in-Spring-Boot/) ([Backup](https://lord-turmoil.github.io/posts/AOP-in-Spring-Boot/)).
+Repository for [AOP in Spring Boot](https://blog.tonys-studio.top/posts/AOP-in-Spring-Boot/) ([Backup](https://lord-turmoil.github.io/posts/AOP-in-Spring-Boot/)).
 
